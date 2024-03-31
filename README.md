@@ -19,6 +19,10 @@ World Happiness Report is a survey that ranks countries according to how content
 5. Generosity
 6. Perceptions of corruption
 
+# Tools
+
+Tableau Visualizations could be found [here](https://public.tableau.com/views/WorldHappinessReporting/ST-?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
 # Project Tasks
 
 1. Sourcing Data
